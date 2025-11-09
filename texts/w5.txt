@@ -1,0 +1,1 @@
+Artificial intelligence refers to the simulation of human intelligence processes by machines. It includes reasoning, learning, and perception. AI systems are used in applications such as natural language processing, robotics, and computer vision.
