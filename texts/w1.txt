@@ -1,0 +1,1 @@
+Machine learning is a subset of artificial intelligence focused on building systems that learn from data. Algorithms improve automatically through experience without being explicitly programmed. Common approaches include supervised, unsupervised, and reinforcement learning.
